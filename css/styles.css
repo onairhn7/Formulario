@@ -1,0 +1,27 @@
+body {
+background-color: #E6DDC4;
+font-family: arial, sans-serif;
+justify-content: center;
+}
+
+ img{
+   max-width: 100px;
+   height: auto;
+   display: flex;
+   margin: auto;
+  padding-top: 40px;
+ }
+
+.container{
+  max-width: 1200px;
+  height:auto;
+  display: block;
+  justify-content: center;
+  padding: 50px 50px;
+  box-shadow: 0 4px 25px -22px black;
+  background-color: #F0E9D2;
+  border-radius: 10px;
+}
+.col-12{
+  margin-top: 10px;
+}
